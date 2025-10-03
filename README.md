@@ -11,4 +11,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=pratham-107&icon=2&color=0)](https://visitcount.itsvg.in)
 
-![snake gif](https://github.com/pratham-107/pratham-107/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/pratham-107/pratham-107/blob/output/github-snake.svg)
