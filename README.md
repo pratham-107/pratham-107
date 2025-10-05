@@ -78,12 +78,7 @@
 
 
 <div align="center">
-  <h2>📊 GitHub Stats</h2>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pratham-107&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratham-107&layout=compact&langs_count=7&theme=radical" />
-  
-  <br><br>
+ 
   
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=pratham-107&theme=nightowl&radius=10" alt="pratham-107's Activity Graph" />
   
