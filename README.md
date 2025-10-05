@@ -4,48 +4,33 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Kalam&size=20&duration=2000&pause=500&color=8A2BE2&center=true&vCenter=true&width=400&lines=Full-Stack+Web+Developer;Tech+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
-<div align="center">
+<div align="left">
   <h2>💫 About Me</h2>
 </div>
 
 
-<br>
-
-<div align="center">
+<div align="left">
   <h3>🧠 What I'm Learning & Exploring:</h3>
 </div>
 
-<div align="center">
-  
-| **Technology** | **Focus Area** |
-|:--------------:|:--------------:|
-| **React** | Hooks, Context API, Performance Optimization |
-| **Realtime Tech** | Socket.io, WebRTC |
-| **APIs** | REST and GraphQL |
-| **Deployment** | Render, Vercel, Atlas DB |
-| **Backend** | Secure, Maintainable Code |
-| **UI/UX** | Bootstrap, AOS Animations |
-
-</div>
-
 <br>
 
-<div align="center">
+<div align="left">
   <h3>🌍 Why I Code</h3>
 </div>
 
-<p align="center">
+<p align="left">
   I believe technology can solve real student problems — finding peers, getting help, attending the right events, and building networks. I'm on a mission to bring those solutions to life and collaborate with like-minded developers.
 </p>
 
-<div align="center">
+<div align="left">
   <h3>📫 Let's Connect</h3>
   <p>If you're building something exciting or want to collaborate, feel free to reach out or check out my repositories. I'm always open to feedback, contributions, and learning from the community.</p>
 </div>
 
 
 
-<div align="center">
+<div align="left">
   <h2>🌐 Socials</h2>
   
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prathamsingh_107)
@@ -55,11 +40,11 @@
 </div>
 
 
-<div align="center">
+<div align="left">
   <h2>💻 Tech Stack</h2>
 </div>
 
-<div align="center">
+<div align="left">
   
 ### Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
