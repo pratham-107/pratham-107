@@ -8,11 +8,6 @@
   <h2>💫 About Me</h2>
 </div>
 
-
-<div align="left">
-  <h3>🧠 What I'm Learning & Exploring:</h3>
-</div>
-
 <br>
 
 <div align="left">
