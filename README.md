@@ -1,8 +1,8 @@
 <div align="center">
 <h1>Hey <img src="https://camo.githubusercontent.com/e7ae6aeae08b584ce56cd85e89dc9edbd700924e1da6b935e8a6ddae8e75241a/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313632313032343339342f33393039322f6361742d726f6c6c2e6769663f31363231303234333934" height="30px" width="30px"> I'm Pratham</h1>
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer+%F0%9F%9A%80;Full-Stack+Web+Developer+%F0%9F%92%BB;Tech+Enthusiast+%E2%9C%A8;Open+Source+Contributor+%F0%9F%8C%9F;Building+Scalable+Web+Apps+%F0%9F%93%88" alt="Typing SVG" />
-</p>
+</p> -->
 
 
 <div align="center">
@@ -68,7 +68,7 @@
 </div>
 
 <div align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=pratham-107&theme=nightowl&radius=10" alt="pratham-107's Activity Graph" />
+  <!-- <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=pratham-107&theme=nightowl&radius=10" alt="pratham-107's Activity Graph" /> -->
   
   <br><br>
   
