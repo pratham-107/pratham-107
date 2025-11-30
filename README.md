@@ -82,7 +82,7 @@ Explore my work or connect! 📧
 </div>
 
 <div align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=pratham-107&theme=nightowl&radius=10" alt="pratham-107's Activity Graph" />
+  <!-- <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=pratham-107&theme=nightowl&radius=10" alt="pratham-107's Activity Graph" /> -->
   
   <br><br>
   
