@@ -2,17 +2,19 @@
 
 I'm Pratham Singh, a MERN stack developer based in, India. 
 
-I build full-stack web applications with clean UI and smooth user experiences. ✨
+I build full-stack web applications with clean UI and smooth user experiences. 
 
-If a cool idea strikes, I’ll code it up and ship it fast! 🚀
+If a cool idea strikes, I’ll code it up and ship it fast! 
 
 My main tech stack: React , Node.js , Express, MongoDB , PostgreSQL. I love integrating AI APIs  for smarter Web Apps.
 
 Several pinned projects here.
 
-Dozens of public repos so far 🌟, with many more private ones in the works.
+Always experimenting with AI + Web Dev
 
-Explore my work or connect! 📧
+Dozens of public repos so far , with many more private ones in the works.
+
+Explore my work or connect! 
 
 🔥 Fun Facts:
 - Just Code....
