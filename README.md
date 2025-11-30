@@ -1,10 +1,24 @@
-<div align="center">
-<h1>Hey <img src="https://camo.githubusercontent.com/e7ae6aeae08b584ce56cd85e89dc9edbd700924e1da6b935e8a6ddae8e75241a/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313632313032343339342f33393039322f6361742d726f6c6c2e6769663f31363231303234333934" height="30px" width="30px"> I'm Pratham</h1>
-<!-- <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer+%F0%9F%9A%80;Full-Stack+Web+Developer+%F0%9F%92%BB;Tech+Enthusiast+%E2%9C%A8;Open+Source+Contributor+%F0%9F%8C%9F;Building+Scalable+Web+Apps+%F0%9F%93%88" alt="Typing SVG" />
-</p> -->
+👋 Hey there!
 
+I'm Pratham Singh, a MERN stack developer based in, India. 
 
+I build full-stack web applications with clean UI and smooth user experiences. ✨
+
+If a cool idea strikes, I’ll code it up and ship it fast! 🚀
+
+My main tech stack: React , Node.js , Express, MongoDB , PostgreSQL. I love integrating AI APIs  for smarter Web Apps.
+
+Several pinned projects here.
+
+Dozens of public repos so far 🌟, with many more private ones in the works.
+
+Explore my work or connect! 📧
+
+🔥 Fun Facts:
+- Just Code....
+
+<br/>
+<br/>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
   <img width="12" />
@@ -68,7 +82,7 @@
 </div>
 
 <div align="center">
-  <!-- <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=pratham-107&theme=nightowl&radius=10" alt="pratham-107's Activity Graph" /> -->
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=pratham-107&theme=nightowl&radius=10" alt="pratham-107's Activity Graph" />
   
   <br><br>
   
