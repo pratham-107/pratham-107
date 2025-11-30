@@ -17,7 +17,7 @@ Dozens of public repos so far , with many more private ones in the works.
 Explore my work or connect! 
 
 🔥 Fun Facts:
-- Just Code....
+- I Just Code....
 
 <br/>
 <br/>
