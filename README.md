@@ -22,18 +22,25 @@ Explore my work or connect!
 <br/>
 <br/>
 <div align="start">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
   <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="60" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="mongodb logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"  />
   <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="60" alt="tailwindcss logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="60" alt="materialui logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="bootstrap logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=materialui" height="60" alt="materialui logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
   <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo"  />
+  <img src="https://skillicons.dev/icons?i=redis" height="60" alt="redis logo"  />
+  <img src="https://skillicons.dev/icons?i=vercel" height="60" alt="vercel logo"  />
+  <img src="https://skillicons.dev/icons?i=netlify" height="60" alt="netlify logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=azure" height="60" alt="azure logo"  />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
 </div>
 
 <div align="start">
