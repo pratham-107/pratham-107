@@ -40,11 +40,3 @@ Explore my work or connect!
   <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
 </div>
 
-  <br><br>
-  
-  ![Snake Animation](https://github.com/pratham-107/pratham-107/blob/output/github-snake.svg)
-
-<div align="center">
-  <h3>Thank you for visiting my profile! 🚀</h3>
-  <p>Feel free to explore my repositories and connect with me!</p>
-</div>
