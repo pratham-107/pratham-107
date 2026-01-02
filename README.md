@@ -36,7 +36,7 @@ Explore my work or connect!
   <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
   <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo"  />
   <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
-  <img src="https://skillicons.dev/icons?i=azure" height="60" alt="azure logo"  />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+  <!-- <img src="https://skillicons.dev/icons?i=azure" height="60" alt="azure logo"  /> -->
+  <!-- <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  /> -->
 </div>
 
