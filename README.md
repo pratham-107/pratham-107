@@ -30,6 +30,7 @@ Explore my work or connect!
   <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"  />
   <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo"  />
   <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="bootstrap logo"  />
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
   <img src="https://skillicons.dev/icons?i=materialui" height="60" alt="materialui logo"  />
